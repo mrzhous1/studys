@@ -69,8 +69,8 @@ var render = function render() {
 
 var staticRenderFns = [];
 
-;// CONCATENATED MODULE: ./node_modules/thread-loader/dist/cjs.js!./node_modules/babel-loader/lib/index.js??clonedRuleSet-40.use[1]!./node_modules/@vue/vue-loader-v15/lib/loaders/templateLoader.js??ruleSet[1].rules[3]!./node_modules/@vue/vue-loader-v15/lib/index.js??vue-loader-options!./src/components/HelloWorld.vue?vue&type=template&id=171b6c9e&scoped=true&
-var HelloWorldvue_type_template_id_171b6c9e_scoped_true_render = function render() {
+;// CONCATENATED MODULE: ./node_modules/thread-loader/dist/cjs.js!./node_modules/babel-loader/lib/index.js??clonedRuleSet-40.use[1]!./node_modules/@vue/vue-loader-v15/lib/loaders/templateLoader.js??ruleSet[1].rules[3]!./node_modules/@vue/vue-loader-v15/lib/index.js??vue-loader-options!./src/components/HelloWorld.vue?vue&type=template&id=6799eb28&scoped=true&
+var HelloWorldvue_type_template_id_6799eb28_scoped_true_render = function render() {
   var _vm = this,
       _c = _vm._self._c;
 
@@ -91,7 +91,23 @@ var HelloWorldvue_type_template_id_171b6c9e_scoped_true_render = function render
     attrs: {
       "label": "德育"
     }
-  }, [_vm._v("配置管理")]), _c('el-tab-pane', {
+  }, [_c('el-tag', [_vm._v("关键词")]), _c('el-tag', {
+    attrs: {
+      "type": "success"
+    }
+  }, [_vm._v("标签二")]), _c('el-tag', {
+    attrs: {
+      "type": "info"
+    }
+  }, [_vm._v("标签三")]), _c('el-tag', {
+    attrs: {
+      "type": "warning"
+    }
+  }, [_vm._v("标签四")]), _c('el-tag', {
+    attrs: {
+      "type": "danger"
+    }
+  }, [_vm._v("标签五")])], 1), _c('el-tab-pane', {
     attrs: {
       "label": "班主任工作"
     }
@@ -99,10 +115,10 @@ var HelloWorldvue_type_template_id_171b6c9e_scoped_true_render = function render
     attrs: {
       "label": "温温"
     }
-  }, [_vm._v("1")])], 1)], 1);
+  })], 1)], 1);
 };
 
-var HelloWorldvue_type_template_id_171b6c9e_scoped_true_staticRenderFns = [];
+var HelloWorldvue_type_template_id_6799eb28_scoped_true_staticRenderFns = [];
 
 ;// CONCATENATED MODULE: ./node_modules/thread-loader/dist/cjs.js!./node_modules/babel-loader/lib/index.js??clonedRuleSet-40.use[1]!./node_modules/@vue/vue-loader-v15/lib/index.js??vue-loader-options!./src/components/HelloWorld.vue?vue&type=script&lang=js&
 /* harmony default export */ var HelloWorldvue_type_script_lang_js_ = ({
@@ -120,10 +136,10 @@ var HelloWorldvue_type_template_id_171b6c9e_scoped_true_staticRenderFns = [];
 });
 ;// CONCATENATED MODULE: ./src/components/HelloWorld.vue?vue&type=script&lang=js&
  /* harmony default export */ var components_HelloWorldvue_type_script_lang_js_ = (HelloWorldvue_type_script_lang_js_); 
-;// CONCATENATED MODULE: ./node_modules/mini-css-extract-plugin/dist/loader.js??clonedRuleSet-12.use[0]!./node_modules/css-loader/dist/cjs.js??clonedRuleSet-12.use[1]!./node_modules/@vue/vue-loader-v15/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-12.use[2]!./node_modules/@vue/vue-loader-v15/lib/index.js??vue-loader-options!./src/components/HelloWorld.vue?vue&type=style&index=0&id=171b6c9e&prod&scoped=true&lang=css&
+;// CONCATENATED MODULE: ./node_modules/mini-css-extract-plugin/dist/loader.js??clonedRuleSet-12.use[0]!./node_modules/css-loader/dist/cjs.js??clonedRuleSet-12.use[1]!./node_modules/@vue/vue-loader-v15/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-12.use[2]!./node_modules/@vue/vue-loader-v15/lib/index.js??vue-loader-options!./src/components/HelloWorld.vue?vue&type=style&index=0&id=6799eb28&prod&scoped=true&lang=css&
 // extracted by mini-css-extract-plugin
 
-;// CONCATENATED MODULE: ./src/components/HelloWorld.vue?vue&type=style&index=0&id=171b6c9e&prod&scoped=true&lang=css&
+;// CONCATENATED MODULE: ./src/components/HelloWorld.vue?vue&type=style&index=0&id=6799eb28&prod&scoped=true&lang=css&
 
 ;// CONCATENATED MODULE: ./node_modules/@vue/vue-loader-v15/lib/runtime/componentNormalizer.js
 /* globals __VUE_SSR_CONTEXT__ */
@@ -234,11 +250,11 @@ function normalizeComponent(
 
 var component = normalizeComponent(
   components_HelloWorldvue_type_script_lang_js_,
-  HelloWorldvue_type_template_id_171b6c9e_scoped_true_render,
-  HelloWorldvue_type_template_id_171b6c9e_scoped_true_staticRenderFns,
+  HelloWorldvue_type_template_id_6799eb28_scoped_true_render,
+  HelloWorldvue_type_template_id_6799eb28_scoped_true_staticRenderFns,
   false,
   null,
-  "171b6c9e",
+  "6799eb28",
   null
   
 )
