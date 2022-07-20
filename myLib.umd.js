@@ -10,7 +10,7 @@
 })((typeof self !== 'undefined' ? self : this), function() {
 return /******/ (function() { // webpackBootstrap
 /******/ 	"use strict";
-/******/ 	// The require scope
+/******/ 	// The require scopemyLib.umd1.js
 /******/ 	var __webpack_require__ = {};
 /******/ 	
 /************************************************************************/
