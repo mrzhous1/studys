@@ -79,8 +79,8 @@ var render = function render() {
 
 var staticRenderFns = [];
 
-;// CONCATENATED MODULE: ./node_modules/thread-loader/dist/cjs.js!./node_modules/babel-loader/lib/index.js??clonedRuleSet-82.use[1]!./node_modules/@vue/vue-loader-v15/lib/loaders/templateLoader.js??ruleSet[1].rules[3]!./node_modules/@vue/vue-loader-v15/lib/index.js??vue-loader-options!./src/components/HelloWorld.vue?vue&type=template&id=d88b4648&scoped=true&
-var HelloWorldvue_type_template_id_d88b4648_scoped_true_render = function render() {
+;// CONCATENATED MODULE: ./node_modules/thread-loader/dist/cjs.js!./node_modules/babel-loader/lib/index.js??clonedRuleSet-82.use[1]!./node_modules/@vue/vue-loader-v15/lib/loaders/templateLoader.js??ruleSet[1].rules[3]!./node_modules/@vue/vue-loader-v15/lib/index.js??vue-loader-options!./src/components/HelloWorld.vue?vue&type=template&id=35cdb0e6&scoped=true&
+var HelloWorldvue_type_template_id_35cdb0e6_scoped_true_render = function render() {
   var _vm = this,
       _c = _vm._self._c;
 
@@ -132,7 +132,7 @@ var HelloWorldvue_type_template_id_d88b4648_scoped_true_render = function render
   }, [_vm._v(" 敬请期待，后续更新 ")])], 1)], 1);
 };
 
-var HelloWorldvue_type_template_id_d88b4648_scoped_true_staticRenderFns = [];
+var HelloWorldvue_type_template_id_35cdb0e6_scoped_true_staticRenderFns = [];
 
 ;// CONCATENATED MODULE: ./node_modules/thread-loader/dist/cjs.js!./node_modules/babel-loader/lib/index.js??clonedRuleSet-82.use[1]!./node_modules/@vue/vue-loader-v15/lib/index.js??vue-loader-options!./src/components/HelloWorld.vue?vue&type=script&lang=js&
 /* harmony default export */ var HelloWorldvue_type_script_lang_js_ = ({
@@ -150,10 +150,10 @@ var HelloWorldvue_type_template_id_d88b4648_scoped_true_staticRenderFns = [];
 });
 ;// CONCATENATED MODULE: ./src/components/HelloWorld.vue?vue&type=script&lang=js&
  /* harmony default export */ var components_HelloWorldvue_type_script_lang_js_ = (HelloWorldvue_type_script_lang_js_); 
-;// CONCATENATED MODULE: ./node_modules/mini-css-extract-plugin/dist/loader.js??clonedRuleSet-54.use[0]!./node_modules/css-loader/dist/cjs.js??clonedRuleSet-54.use[1]!./node_modules/@vue/vue-loader-v15/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-54.use[2]!./node_modules/@vue/vue-loader-v15/lib/index.js??vue-loader-options!./src/components/HelloWorld.vue?vue&type=style&index=0&id=d88b4648&prod&scoped=true&lang=css&
+;// CONCATENATED MODULE: ./node_modules/mini-css-extract-plugin/dist/loader.js??clonedRuleSet-54.use[0]!./node_modules/css-loader/dist/cjs.js??clonedRuleSet-54.use[1]!./node_modules/@vue/vue-loader-v15/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-54.use[2]!./node_modules/@vue/vue-loader-v15/lib/index.js??vue-loader-options!./src/components/HelloWorld.vue?vue&type=style&index=0&id=35cdb0e6&prod&scoped=true&lang=css&
 // extracted by mini-css-extract-plugin
 
-;// CONCATENATED MODULE: ./src/components/HelloWorld.vue?vue&type=style&index=0&id=d88b4648&prod&scoped=true&lang=css&
+;// CONCATENATED MODULE: ./src/components/HelloWorld.vue?vue&type=style&index=0&id=35cdb0e6&prod&scoped=true&lang=css&
 
 ;// CONCATENATED MODULE: ./node_modules/@vue/vue-loader-v15/lib/runtime/componentNormalizer.js
 /* globals __VUE_SSR_CONTEXT__ */
@@ -264,11 +264,11 @@ function normalizeComponent(
 
 var component = normalizeComponent(
   components_HelloWorldvue_type_script_lang_js_,
-  HelloWorldvue_type_template_id_d88b4648_scoped_true_render,
-  HelloWorldvue_type_template_id_d88b4648_scoped_true_staticRenderFns,
+  HelloWorldvue_type_template_id_35cdb0e6_scoped_true_render,
+  HelloWorldvue_type_template_id_35cdb0e6_scoped_true_staticRenderFns,
   false,
   null,
-  "d88b4648",
+  "35cdb0e6",
   null
   
 )
